@@ -131,7 +131,7 @@ done
 
 
 function menu() {
-echo -e "My First Menu:"
+echo -e
 echo -e 
 printf '%b\n' "1) Dotfile Cleaner"
 printf '%b\n' "2) FLIPPER SD Backup"
