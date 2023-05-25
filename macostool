@@ -136,7 +136,7 @@ echo -e
 printf '%b\n' "1) Dotfile Cleaner"
 printf '%b\n' "2) FLIPPER SD Backup"
 printf '%b\n' "3) Ejecting SD"
-printf '%b\n' "q/e or quit/exit) Exit"
+printf '%b\n' "quit/exit) Close the App"
 echo -e
 printf '%b\n' "Choose an option: "
         read a
