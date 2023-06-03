@@ -7,4 +7,4 @@
 4. `./start.sh`  
 
 With this tool, you can delete all the dot/trash files that macOS lefts behind him for example for using apps like "TimeMachine";
-backup all of your SD's file to your macOS in the `~/Flipper_Backup` directory; ejecting your SD after you finish your job.
+backup all of your SD's file to your macOS in the `~/Flipper_Backup` directory; ejecting in a "sure way" your SD, from your pc, after you finish all your jobs.
