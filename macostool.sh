@@ -116,6 +116,7 @@ case $backsups in
 		then
     		rsync -avzh --progress /Volumes/FLIPPER\ SD/ ~/Flipper_Backup/
     		echo "Backup completed successfully! You can find it in ~/Flipper_Backup/"
+      		continue_work
 		else
     		echo "External disk named 'FLIPPER SD' not found."
     		continue_work
