@@ -32,7 +32,7 @@ echo "|#                                                                        
 echo "**************************************************************************************"
 echo ""
 echo "Welcome to the \"FlipperZero macOS Tool\"!"
-echo "Type ./macostool -h (--help) to show the usage options."
+echo "Type ./macostool.sh -h (--help) to show the usage options."
 echo "If you got here by mistake or would you like to close it, just type \`exit\` or quit, at any time you need."
 echo " "
 echo " "
